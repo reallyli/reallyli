@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
+
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
